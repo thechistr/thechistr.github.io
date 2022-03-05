@@ -29,3 +29,15 @@ a:hover {
     color: #fff;
     background-color: #000;
 }
+
+.navigation-bar {
+    display: flex;
+    margin: 1em 2em;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 0em 2em;
+}
